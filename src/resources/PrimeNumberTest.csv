@@ -1,0 +1,7 @@
+﻿Test Description,Number,Expected Type Column
+2 is prime,2,TRUE
+3 is prime,3,TRUE
+4 is not prime,4,FALSE
+9 is not prime,9,FALSE
+10 is prime,10,FALSE
+17 is prime,17,TRUE
