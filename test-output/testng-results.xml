@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-10T15:20:20 EEST" name="Default suite" finished-at="2026-05-10T15:20:20 EEST" duration-ms="59">
+  <suite started-at="2026-05-10T15:24:40 EEST" name="Default suite" finished-at="2026-05-10T15:24:40 EEST" duration-ms="64">
     <groups>
     </groups>
-    <test started-at="2026-05-10T15:20:20 EEST" name="Default test" finished-at="2026-05-10T15:20:20 EEST" duration-ms="59">
+    <test started-at="2026-05-10T15:24:40 EEST" name="Default test" finished-at="2026-05-10T15:24:40 EEST" duration-ms="64">
       <class name="PrimeNumberChecker.PrimeNumberCheckerTest">
-        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:20:20 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:20:20 EEST" duration-ms="11" status="PASS">
+        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:24:40 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:24:40 EEST" duration-ms="10" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -28,7 +28,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testIsPrime -->
-        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:20:20 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:20:20 EEST" duration-ms="2" status="PASS">
+        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:24:40 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:24:40 EEST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,7 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testIsPrime -->
-        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:20:20 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:20:20 EEST" duration-ms="1" status="PASS">
+        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:24:40 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:24:40 EEST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -70,7 +70,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testIsPrime -->
-        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:20:20 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:20:20 EEST" duration-ms="1" status="PASS">
+        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:24:40 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:24:40 EEST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -91,11 +91,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testIsPrime -->
-        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:20:20 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:20:20 EEST" duration-ms="1" status="PASS">
+        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:24:40 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:24:40 EEST" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[10 is prime]]>
+                <![CDATA[10 is not prime]]>
               </value>
             </param>
             <param index="1">
@@ -112,7 +112,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testIsPrime -->
-        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:20:20 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:20:20 EEST" duration-ms="2" status="PASS">
+        <test-method signature="testIsPrime(java.lang.String,int,boolean)[pri:0, instance:PrimeNumberChecker.PrimeNumberCheckerTest@223191a6]" started-at="2026-05-10T15:24:40 EEST" name="testIsPrime" data-provider="CSVDataProvider" finished-at="2026-05-10T15:24:40 EEST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
